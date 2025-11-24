@@ -1,21 +1,21 @@
 # 3_Country_THDMI  
 **Code for manuscript:** *“A three-country analysis of the gut microbiome indicates taxon associations with diet vary by taxon resolution and population”*  
 
-## 📋 Overview  
+## Overview  
 This repository contains the code and supporting files used in the above-named manuscript (Khatib et al.; https://doi.org/10.1128/msystems.00544-25). The analysis investigates how gut microbial taxa relate to dietary variables across three countries, and examines how associations may vary by taxon resolution and population.
 
-## 🧬 Aims  
+## Aims  
 - To explore taxon-diet associations in a multi-country cohort.  
 - To assess how resolution (e.g., genus vs. strains) affects associations.  
 - To highlight population (country)-specific differences in microbiome-diet relationships.  
 - To provide reproducible code for the analyses reported in the manuscript.
 
-## 📊 Data Availability
+## Data Availability
 The data used in this study will be made available through:
 - European Bioinformatics Institute (EBI) under accession number PRJEB11419
 - Qiita under Study ID 10317
 
-## 📂 Repository Structure  
+## Repository Structure  
 ```text
 
 3_Country_THDMI/
